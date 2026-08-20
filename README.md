@@ -5,7 +5,7 @@ kylmälaitesuunnitteluun).
 
 ## Lataa ohjelma
 
-1. Avaa **[Releases-sivu](https://github.com/NoPlansNoProblem/dwg2ifc-dist/releases/latest)**.
+1. Avaa **[Releases-sivu](https://github.com/radika-oy/dwg2ifc-dist/releases/latest)**.
 2. Lataa uusin `dwg2ifc-x.y.z.exe`.
 3. Tuplaklikkaa — ohjelma käynnistyy, ei erillistä asennusta.
 
